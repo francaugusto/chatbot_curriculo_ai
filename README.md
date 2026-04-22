@@ -23,3 +23,6 @@ Melhorias futuras:
 - Deploy em web app
 - Integração com LinkedIn
 - Interface gráfica
+
+Demonstrações:
+- https://github.com/francaugusto/chatbot_curriculo_ai/blob/cacac968ef9b8d57ba28eb5de601a1827c092698/prompt%20chatbot.png
